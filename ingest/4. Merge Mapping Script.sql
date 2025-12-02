@@ -6,7 +6,7 @@
 -- =================================================================
 
 -- Step 0: Set the source table name variable
-SET TABLE_NAME = '_730803_COMPANYNAME3_TOKIOMARINE_MD_SLDET_20250101_20251031_20251104';
+SET TABLE_NAME = 'MYTABLE_NAME';
 
 -- Step 1: Create target table with standardized schema
 USE DATABASE DB_TBOON;
