@@ -119,7 +119,7 @@ CALL read_xlsx_files('DB_TBOON.PUBLIC.EXT_FILES_BUCKET');
   - **INSERT** new records
 - Includes verification queries to check results
 
-**Source Table Example**: `DB_HACK_TBOON.PUBLIC._730803_COMPANYNAME3_TOKIOMARINE_MD_SLDET_20250101_20251031_20251104`
+**Source Table Example**: `DB_HACK_TBOON.PUBLIC.TABLE_NAME`
 
 **Target Table**: `DB_HACK_TBOON.PUBLIC.TARGET_CLAIMS`
 
